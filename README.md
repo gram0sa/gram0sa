@@ -18,9 +18,6 @@
   <img align="left" width="300px" 
   <br><br>
   <p align="center">
-    <a href="https://www.canva.com/design/DAFdxNPgw-Y/tPO08CyDGI4_-y6nEq5TlQ/view?utm_content=DAFdxNPgw-Y&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank">
-      <img src="https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="Curriculum_Vitae">
-    </a>
     <a href="mailto:lucashalliier@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail_badge">
     </a>
