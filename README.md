@@ -3,15 +3,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+THOMAZ+LEAL;I'm+22+years+old;I+from+Brasil,+DF;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="54%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devbleal&show_icons=true&count_private=&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Thomaz Brum Leal github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbleal&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="54%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gram0sa&show_icons=true&count_private=&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Thomaz Brum Leal github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gram0sa&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=devbleal&theme=gotham)
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gram0sa&theme=gotham)
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devbleal&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gram0sa&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
  <h2 align="center">📩 &ensp; Contact</h2>
