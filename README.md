@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+THOMAZ+LEAL;I'm+22+years+old;I+from+Brasil,+DF;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+LUCAS+GRAMOSA;I'm+21+years+old;I+from+Brasil,+DF;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="54%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gram0sa&show_icons=true&count_private=&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Thomaz Brum Leal github stats" /> 
+  <img width="54%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gram0sa&show_icons=true&count_private=&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="LUCAS GRAMOSA github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gram0sa&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
@@ -21,13 +21,13 @@
     <a href="https://www.canva.com/design/DAFdxNPgw-Y/tPO08CyDGI4_-y6nEq5TlQ/view?utm_content=DAFdxNPgw-Y&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank">
       <img src="https://img.shields.io/badge/Currículo-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" alt="Curriculum_Vitae">
     </a>
-    <a href="mailto:joaothomaz.leal@gmail.com" target="_blank">
+    <a href="mailto:lucashalliier@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail_badge">
     </a>
-    <a href="https://www.linkedin.com/in/thomazleal/" target="_blank">
+    <a href="https://www.linkedin.com/in/lucas-gramosa-ba7bba232/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin_badge">
     </a>
-    <a href="https://wa.me/5561999122500?text=Salve,%20pode%20mandar%20mensagem,%20sem%20problemas." target="_blank">
+    <a href="https://wa.me/5561998161722?text=Salve,%20pode%20mandar%20mensagem,%20sem%20problemas." target="_blank">
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp_badge">
     </a>
   <br><br><br>
