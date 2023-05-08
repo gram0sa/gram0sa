@@ -47,8 +47,11 @@
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
   
 ### Studying in this moment:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="40" height="40"/>
+  <img src="https://logospng.org/wp-content/uploads/javascript.png" width="40" height="40"/>
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
