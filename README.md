@@ -48,10 +48,9 @@
   
 ### Studying in this moment:
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="40" height="40"/>
-  <img src="https://logospng.org/wp-content/uploads/javascript.png" width="40" height="40"/>
+  <img src="https://www.google.com/search?q=react+icon+svg&tbm=isch&chips=q:react+icon+svg,online_chips:native:b4e4k92jWE0%3D&rlz=1C1GCEU_pt-BRBR1051BR1051&hl=pt-BR&sa=X&ved=2ahUKEwidioKX6ub-AhUJBbkGHSVmAUAQ4lYoAXoECAEQKA&biw=2543&bih=975#imgrc=tl7oWq6fxK81NM" width="40" height="40"/>
+
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
