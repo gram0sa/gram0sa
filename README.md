@@ -58,7 +58,7 @@
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{devbleal}/count.svg" /></p><br>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{gram0sa}/count.svg" /></p><br>
 </div>   
  
   ![Snake animation](https://github.com/devbleal/devbleal/blob/output/github-contribution-grid-snake.svg)
