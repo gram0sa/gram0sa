@@ -61,7 +61,7 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{gram0sa}/count.svg" /></p><br>
 </div>   
  
-  ![Snake animation](https://github.com/devbleal/devbleal/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/gram0sa/gram0sa/blob/output/github-contribution-grid-snake.svg)
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
                                                
