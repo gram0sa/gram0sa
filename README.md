@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+LUCAS+GRAMOSA;I'm+21+years+old;I+from+Brasil,+DF;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+LUCAS+GRAMOSA;I'm+21+years+old;I'm+from+Brasil,+DF;Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="54%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gram0sa&show_icons=true&count_private=&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="LUCAS GRAMOSA github stats" /> 
@@ -50,7 +50,7 @@
 
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
   
-### Studying in this moment:
+### Studying at the moment:
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="40" height="40"/>
   <img src="https://files.passeidireto.com/946ff5f5-f37c-4004-9d7e-cf6a5756a500/946ff5f5-f37c-4004-9d7e-cf6a5756a500.png" width="40" height="40"/>
