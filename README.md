@@ -53,14 +53,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="40" height="40"/>
   <img src="https://files.passeidireto.com/946ff5f5-f37c-4004-9d7e-cf6a5756a500/946ff5f5-f37c-4004-9d7e-cf6a5756a500.png" width="40" height="40"/>
 
-
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{gram0sa}/count.svg" /></p><br>
 </div>   
  
-![snake gif](https://github.com/gram0sa/gram0sa/blob/output/github-contribution-grid-snake.svg)
-  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-                                               
-                                                                                                            
+                                                                                                  
