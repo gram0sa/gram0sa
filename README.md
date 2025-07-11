@@ -59,6 +59,17 @@
 <img src="https://img.shields.io/badge/FAISS-173F59?style=for-the-badge&logo=faiss&logoColor=white" alt="FAISS"/><br/>  
 <img src="https://img.shields.io/badge/LangChain-2E7D32?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
 
+## 🐍 Cobrinha Comendo Commit
+
+```text
+          __
+     .-^^^-/ /
+ __/       /
+< [COMMIT] 🐍
+ \         \
+  `\----._/
+
+
 ---
 
 ### 🚧 Currently Exploring  
