@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/lucas-gramosa-ba7bba232/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://wa.me/5561998161722?text=Salve,%20pode%20mandar%20mensagem,%20sem%20problemas." target="_blank">
+  <a href="https://wa.me/5561998131722?text=Ol%C3%A1%2C%20tenho%20interesse%20nos%20seus%20projetos%21" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </p>
@@ -29,9 +29,10 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### ⚙️ Tools & Platforms  
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FA6E2E?style=for-the-badge&logo=jupyter&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FA6E2E?style=for-the-badge&logo=jupyter&logoColor=white)   
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🔍 Data Science & AI  
@@ -41,10 +42,12 @@
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 
 ### 🚀 Vector Databases & RAG  
-![Pinecone](https://img.shields.io/badge/Pinecone-5031CC?style=for-the-badge&logo=pinecone&logoColor=white)  
-![Weaviate](https://img.shields.io/badge/Weaviate-43BF6D?style=for-the-badge&logo=weaviate&logoColor=white)  
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elastic&logoColor=white)    
 ![FAISS](https://img.shields.io/badge/FAISS-173F59?style=for-the-badge&logo=faiss&logoColor=white)  
 ![LangChain](https://img.shields.io/badge/LangChain-2E7D32?style=for-the-badge&logo=langchain&logoColor=white)
 
 ### 🚧 Currently Exploring  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
