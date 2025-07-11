@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'M+LUCAS+GRAMOSA;DATA+SCIENTIST+&+ML+ENTHUSIAST;PYTHON+%2F+TENSORFLOW+%2F+PYTORCH;WELCOME+TO+MY+WORLD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'M+LUCAS+GRAMOSA;DATA+SCIENTIST+&+ML+ENTHUSIAST;PYTHON+%2F+TENSORFLOW+%2F+PYTORCH+%2F+RAG;WELCOME+TO+MY+WORLD)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="54%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gram0sa&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="LUCAS GRAMOSA github stats" /> 
@@ -35,13 +35,16 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🔍 Data Science & AI  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white)  
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white)  
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)  
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 
+### 🚀 Vector Databases & RAG  
+![Pinecone](https://img.shields.io/badge/Pinecone-5031CC?style=for-the-badge&logo=pinecone&logoColor=white)  
+![Weaviate](https://img.shields.io/badge/Weaviate-43BF6D?style=for-the-badge&logo=weaviate&logoColor=white)  
+![FAISS](https://img.shields.io/badge/FAISS-173F59?style=for-the-badge&logo=faiss&logoColor=white)  
+![LangChain](https://img.shields.io/badge/LangChain-2E7D32?style=for-the-badge&logo=langchain&logoColor=white)
+
 ### 🚧 Currently Exploring  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
